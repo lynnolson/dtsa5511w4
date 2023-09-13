@@ -11,6 +11,7 @@ It was done for CU Boulder's DTSA5511 Introduction to Deep Learning.
 The models developed include
 - BiLSTMs
 - BiGRUs
+  
 Both of course are RNN-based models.
 
 Hyperparameter searching was done with [Weights and Biases](https://wandb.ai/site).
